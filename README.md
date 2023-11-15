@@ -6,11 +6,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-# Hi there, I'm Ishan Vyas 👋
+# Hi there 👋
 
 🚀 Full Stack Developer | 💻 Python Django & React Enthusiast | 🌐 Tech Explorer
 
-Welcome to my GitHub profile! I'm Ishan Vyas, a passionate full-stack developer with a strong focus on Python Django, Django REST framework, React, Angular, Node.js, and other cutting-edge technologies. With over 6 years of experience in web development, I'm dedicated to building robust, scalable, and user-friendly web applications. Let's dive into my world of code and innovation!
+Welcome to my GitHub profile! I'm a passionate full-stack developer with a strong focus on Python Django, Django REST framework, React, Angular, Node.js, and other cutting-edge technologies. With over 6 years of experience in web development, I'm dedicated to building robust, scalable, and user-friendly web applications. Let's dive into my world of code and innovation!
 
 ## 💻 My Tech Stack
 
